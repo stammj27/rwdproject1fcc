@@ -1,0 +1,13 @@
+body {
+    background-color: #c0c0c0;
+}
+header {
+    background-color: rgba(53, 94, 59, .5);
+    margin: auto;
+}
+.center-text {
+    text-align: center;
+}
+#img-div {
+    text-align: center;
+}
